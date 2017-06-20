@@ -1,0 +1,6 @@
+c:\users\уе\documents\visual studio 2017\Projects\IT-Claster_PV\IT-Claster_PV\bin\Debug\IT-Claster_PV.exe.config
+c:\users\уе\documents\visual studio 2017\Projects\IT-Claster_PV\IT-Claster_PV\bin\Debug\IT-Claster_PV.exe
+c:\users\уе\documents\visual studio 2017\Projects\IT-Claster_PV\IT-Claster_PV\bin\Debug\IT-Claster_PV.pdb
+c:\users\уе\documents\visual studio 2017\Projects\IT-Claster_PV\IT-Claster_PV\obj\Debug\IT-Claster_PV.csprojResolveAssemblyReference.cache
+c:\users\уе\documents\visual studio 2017\Projects\IT-Claster_PV\IT-Claster_PV\obj\Debug\IT-Claster_PV.exe
+c:\users\уе\documents\visual studio 2017\Projects\IT-Claster_PV\IT-Claster_PV\obj\Debug\IT-Claster_PV.pdb

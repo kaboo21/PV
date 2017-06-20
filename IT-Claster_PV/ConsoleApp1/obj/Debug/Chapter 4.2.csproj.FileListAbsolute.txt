@@ -1,0 +1,6 @@
+c:\users\уе\documents\visual studio 2017\Projects\IT-Claster_PV\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\уе\documents\visual studio 2017\Projects\IT-Claster_PV\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\уе\documents\visual studio 2017\Projects\IT-Claster_PV\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\уе\documents\visual studio 2017\Projects\IT-Claster_PV\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\уе\documents\visual studio 2017\Projects\IT-Claster_PV\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+c:\users\уе\documents\visual studio 2017\Projects\IT-Claster_PV\ConsoleApp1\obj\Debug\Chapter 4.2.csprojResolveAssemblyReference.cache
