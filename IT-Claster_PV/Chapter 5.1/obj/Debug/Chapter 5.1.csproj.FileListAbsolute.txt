@@ -1,0 +1,6 @@
+E:\IT\PV\IT-Claster_PV\Chapter 5.1\bin\Debug\Chapter 5.1.exe.config
+E:\IT\PV\IT-Claster_PV\Chapter 5.1\bin\Debug\Chapter 5.1.exe
+E:\IT\PV\IT-Claster_PV\Chapter 5.1\bin\Debug\Chapter 5.1.pdb
+E:\IT\PV\IT-Claster_PV\Chapter 5.1\obj\Debug\Chapter 5.1.csprojResolveAssemblyReference.cache
+E:\IT\PV\IT-Claster_PV\Chapter 5.1\obj\Debug\Chapter 5.1.exe
+E:\IT\PV\IT-Claster_PV\Chapter 5.1\obj\Debug\Chapter 5.1.pdb
