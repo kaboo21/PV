@@ -1,0 +1,6 @@
+D:\IT\PV\IT-Claster_PV\Chapter 5.6\bin\Debug\Chapter 5.6.exe.config
+D:\IT\PV\IT-Claster_PV\Chapter 5.6\bin\Debug\Chapter 5.6.exe
+D:\IT\PV\IT-Claster_PV\Chapter 5.6\bin\Debug\Chapter 5.6.pdb
+D:\IT\PV\IT-Claster_PV\Chapter 5.6\obj\Debug\Chapter 5.6.exe
+D:\IT\PV\IT-Claster_PV\Chapter 5.6\obj\Debug\Chapter 5.6.pdb
+D:\IT\PV\IT-Claster_PV\Chapter 5.6\obj\Debug\Chapter 5.6.csprojResolveAssemblyReference.cache

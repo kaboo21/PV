@@ -1,0 +1,6 @@
+D:\IT\PV\IT-Claster_PV\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\IT\PV\IT-Claster_PV\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\IT\PV\IT-Claster_PV\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\IT\PV\IT-Claster_PV\ConsoleApp5\obj\Debug\Chapter 5.3.csprojResolveAssemblyReference.cache
+D:\IT\PV\IT-Claster_PV\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\IT\PV\IT-Claster_PV\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

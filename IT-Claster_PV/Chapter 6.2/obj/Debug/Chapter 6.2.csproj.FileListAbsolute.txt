@@ -1,0 +1,5 @@
+D:\IT\PV\IT-Claster_PV\Chapter 6.2\bin\Debug\Chapter 6.2.exe.config
+D:\IT\PV\IT-Claster_PV\Chapter 6.2\bin\Debug\Chapter 6.2.exe
+D:\IT\PV\IT-Claster_PV\Chapter 6.2\bin\Debug\Chapter 6.2.pdb
+D:\IT\PV\IT-Claster_PV\Chapter 6.2\obj\Debug\Chapter 6.2.exe
+D:\IT\PV\IT-Claster_PV\Chapter 6.2\obj\Debug\Chapter 6.2.pdb
