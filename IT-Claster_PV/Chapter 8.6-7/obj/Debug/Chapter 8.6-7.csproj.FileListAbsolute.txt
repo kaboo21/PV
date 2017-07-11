@@ -3,3 +3,4 @@ D:\IT\PV\IT-Claster_PV\Chapter 8.6-7\bin\Debug\Chapter 8.6-7.exe
 D:\IT\PV\IT-Claster_PV\Chapter 8.6-7\bin\Debug\Chapter 8.6-7.pdb
 D:\IT\PV\IT-Claster_PV\Chapter 8.6-7\obj\Debug\Chapter 8.6-7.exe
 D:\IT\PV\IT-Claster_PV\Chapter 8.6-7\obj\Debug\Chapter 8.6-7.pdb
+D:\IT\PV\IT-Claster_PV\Chapter 8.6-7\obj\Debug\Chapter 8.6-7.csprojResolveAssemblyReference.cache
