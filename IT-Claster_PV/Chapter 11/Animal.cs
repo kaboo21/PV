@@ -16,6 +16,7 @@ namespace Chapter_11
 
     abstract class Animal
     {
+        //Properties
         public string NickName { get; set; }
         public string Type { get; set; }
         public AnimalSize Size { get; set; }
@@ -24,6 +25,7 @@ namespace Chapter_11
         public int PawsNumber { get; set; }
         public bool IsTail { get; set; }
 
+        //constructor
         public Animal (string nickName, string type, AnimalSize size, string colour, int age, int pawsNumber, bool isTail)
         {
             this.NickName = nickName;
@@ -35,11 +37,13 @@ namespace Chapter_11
             this.IsTail = IsTail;
         }
 
+        //Display general info about the animal
         public virtual void DisplayInfo()
         {
-            Console.WriteLine($"{NickName} - type {Type}; size {Size}; colour {Colour}; age {Age}; number of paws {PawsNumber}; tail existance {IsTail};");
+            Console.WriteLine($"{NickName}:\ttype {Type}; size {Size}; colour {Colour}; age {Age}; \n\tnumber of paws {PawsNumber}; tail existance {IsTail};");
         }
 
+        //abstract method sound of the animal
         public abstract string Sound ();
 
     }
