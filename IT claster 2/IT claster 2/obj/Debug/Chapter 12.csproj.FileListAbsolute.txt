@@ -1,0 +1,6 @@
+c:\users\first\documents\visual studio 2017\Projects\IT claster 2\IT claster 2\obj\Debug\Chapter 12.csprojResolveAssemblyReference.cache
+c:\users\first\documents\visual studio 2017\Projects\IT claster 2\IT claster 2\bin\Debug\IT claster 2.exe.config
+c:\users\first\documents\visual studio 2017\Projects\IT claster 2\IT claster 2\bin\Debug\IT claster 2.exe
+c:\users\first\documents\visual studio 2017\Projects\IT claster 2\IT claster 2\bin\Debug\IT claster 2.pdb
+c:\users\first\documents\visual studio 2017\Projects\IT claster 2\IT claster 2\obj\Debug\IT claster 2.exe
+c:\users\first\documents\visual studio 2017\Projects\IT claster 2\IT claster 2\obj\Debug\IT claster 2.pdb

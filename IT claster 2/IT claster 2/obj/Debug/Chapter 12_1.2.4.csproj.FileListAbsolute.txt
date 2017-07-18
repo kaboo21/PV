@@ -1,0 +1,5 @@
+C:\Users\first\Documents\Visual Studio 2017\Projects\IT claster 2\IT claster 2\bin\Debug\IT claster 2.exe.config
+C:\Users\first\Documents\Visual Studio 2017\Projects\IT claster 2\IT claster 2\bin\Debug\IT claster 2.exe
+C:\Users\first\Documents\Visual Studio 2017\Projects\IT claster 2\IT claster 2\bin\Debug\IT claster 2.pdb
+C:\Users\first\Documents\Visual Studio 2017\Projects\IT claster 2\IT claster 2\obj\Debug\IT claster 2.exe
+C:\Users\first\Documents\Visual Studio 2017\Projects\IT claster 2\IT claster 2\obj\Debug\IT claster 2.pdb
