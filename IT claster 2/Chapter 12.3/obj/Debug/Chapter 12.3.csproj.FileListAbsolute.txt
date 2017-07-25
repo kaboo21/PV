@@ -4,3 +4,9 @@ C:\Users\first\Documents\Visual Studio 2017\Projects\IT claster 2\Chapter 12.3\b
 C:\Users\first\Documents\Visual Studio 2017\Projects\IT claster 2\Chapter 12.3\obj\Debug\Chapter 12.3.csprojResolveAssemblyReference.cache
 C:\Users\first\Documents\Visual Studio 2017\Projects\IT claster 2\Chapter 12.3\obj\Debug\Chapter 12.3.exe
 C:\Users\first\Documents\Visual Studio 2017\Projects\IT claster 2\Chapter 12.3\obj\Debug\Chapter 12.3.pdb
+D:\IT\PV\IT claster 2\Chapter 12.3\bin\Debug\Chapter 12.3.exe.config
+D:\IT\PV\IT claster 2\Chapter 12.3\bin\Debug\Chapter 12.3.exe
+D:\IT\PV\IT claster 2\Chapter 12.3\bin\Debug\Chapter 12.3.pdb
+D:\IT\PV\IT claster 2\Chapter 12.3\obj\Debug\Chapter 12.3.csprojResolveAssemblyReference.cache
+D:\IT\PV\IT claster 2\Chapter 12.3\obj\Debug\Chapter 12.3.exe
+D:\IT\PV\IT claster 2\Chapter 12.3\obj\Debug\Chapter 12.3.pdb

@@ -1,0 +1,6 @@
+D:\IT\PV\IT claster 2\Chapter 15\bin\Debug\Chapter 15.exe.config
+D:\IT\PV\IT claster 2\Chapter 15\bin\Debug\Chapter 15.exe
+D:\IT\PV\IT claster 2\Chapter 15\bin\Debug\Chapter 15.pdb
+D:\IT\PV\IT claster 2\Chapter 15\obj\Debug\Chapter 15.csprojResolveAssemblyReference.cache
+D:\IT\PV\IT claster 2\Chapter 15\obj\Debug\Chapter 15.exe
+D:\IT\PV\IT claster 2\Chapter 15\obj\Debug\Chapter 15.pdb
